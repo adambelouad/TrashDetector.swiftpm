@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "79A498FC-4ABB-4853-B492-78613E4C4F32": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "96A089FE-10CE-4DCA-A39D-AD2BD4C8EBA7": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "F092BCB6-9A7B-4D02-9E2B-469486D97039": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "Recycled Objects 2.1.mlmodel",
+            "path": "com.apple.CoreML/Recycled Objects 2.1.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F092BCB6-9A7B-4D02-9E2B-469486D97039"
+}
